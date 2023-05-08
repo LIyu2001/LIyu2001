@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![LIYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIyu2001&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/LIyu2001/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIyu2001&layout=compact&theme=tokyonight)
+
+
+https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28
